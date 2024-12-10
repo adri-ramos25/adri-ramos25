@@ -27,3 +27,6 @@ Estou sempre em busca de aprendizado e desafios que me ajudem a crescer como des
 
 
 # Links das minhas redes 🌐
+
+[LinkedIn] www.linkedin.com/in/adriano-ramos25
+[Instagram] https://www.instagram.com/adriano.ramos9/
