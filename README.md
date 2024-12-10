@@ -10,7 +10,7 @@ Estou sempre em busca de aprendizado e desafios que me ajudem a crescer como des
 
 
 
-# Tecnologias que utilizo 💻
+# Tecnologias Que Utilizo 💻
 
 **No Desenvolvimento Front-End**
 - JavaScript
@@ -21,12 +21,12 @@ Estou sempre em busca de aprendizado e desafios que me ajudem a crescer como des
 - Bootstrap
 - Figma
 
-**No Desenvolvimento de Jogos**
+**No Desenvolvimento De Jogos**
 - Pretendo aprender C# e Unity, tecnologias essenciais para desenvolver jogos.
 
 
 
-# Links das minhas redes 🌐
+# Links Das Minhas Redes 🌐
 
 - [LinkedIn] www.linkedin.com/in/adriano-ramos25
 - [Instagram] https://www.instagram.com/adriano.ramos9/
