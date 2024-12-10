@@ -6,7 +6,7 @@ Tenho interesse em desenvolvimento de jogos e quero, no futuro, me tornar també
 
 
 
-## Tecnologias que eu Utilizo
+## Tecnologias Que Eu Utilizo
 
 - JavaScript
 - HTML
