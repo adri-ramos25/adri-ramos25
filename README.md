@@ -2,7 +2,7 @@
 
 Sou desenvolvedor front-end, focado em criar projetos que sejam visualmente atrativos e funcionais. Atualmente, estou aprimorando minhas habilidades em desenvolvimento front-end e desejo expandir meus conhecimentos para me tornar desenvolvedor full-stack.
 
-Tenho interesse em desenvolvimento de jogos e quero, no futuro, me tornar também desenvolvedor de jogos e criar meus próprios projetos independentes que unam criatividade e tecnologia.
+Tenho interesse em desenvolvimento de jogos e quero, no futuro, me tornar também desenvolvedor de jogos e criar meus próprios projetos independentes, que unam criatividade e tecnologia.
 
 
 
