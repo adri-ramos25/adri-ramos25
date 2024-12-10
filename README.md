@@ -1,4 +1,4 @@
-# Sobre Mim
+# Sobre Mim 👤
 
 Sou desenvolvedor front-end com interesse em tecnologia e computação desde sempre. Gosto de usar minha criatividade para criar projetos visualmente atraentes e funcionais.
 
@@ -10,7 +10,7 @@ Estou sempre em busca de aprendizado e desafios que me ajudem a crescer como des
 
 
 
-# Tecnologias que utilizo
+# Tecnologias que utilizo 💻
 
 **No Desenvolvimento Front-End**
 - JavaScript
@@ -23,3 +23,7 @@ Estou sempre em busca de aprendizado e desafios que me ajudem a crescer como des
 
 **No Desenvolvimento de Jogos**
 - Pretendo aprender C# e Unity, tecnologias essenciais para desenvolver jogos.
+
+
+
+# Links das minhas redes 🌐
