@@ -1,4 +1,4 @@
-# Sobre Mim 👤
+# Sobre Mim
 
 Sou desenvolvedor front-end com interesse em tecnologia e computação desde sempre. Gosto de usar minha criatividade para criar projetos visualmente atraentes e funcionais.
 
@@ -10,7 +10,7 @@ Estou sempre em busca de aprendizado e desafios que me ajudem a crescer como des
 
 
 
-# Tecnologias que Utilizo 💻
+# Tecnologias que Utilizo
 
 **No Desenvolvimento Front-End**
 - JavaScript
@@ -26,7 +26,7 @@ Estou sempre em busca de aprendizado e desafios que me ajudem a crescer como des
 
 
 
-# Links das Minhas Redes 🌐
+# Links das Minhas Redes
 
 - [LinkedIn] (www.linkedin.com/in/adriano-ramos25)
 - [Instagram] (https://www.instagram.com/adriano.ramos9/)
