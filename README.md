@@ -10,7 +10,7 @@ Estou sempre em busca de aprendizado e desafios que me ajudem a crescer como des
 
 
 
-# Tecnologias Que Utilizo 💻
+# Tecnologias que Utilizo 💻
 
 **No Desenvolvimento Front-End**
 - JavaScript
@@ -26,7 +26,7 @@ Estou sempre em busca de aprendizado e desafios que me ajudem a crescer como des
 
 
 
-# Links Das Minhas Redes 🌐
+# Links das Minhas Redes 🌐
 
 - [LinkedIn] www.linkedin.com/in/adriano-ramos25
 - [Instagram] https://www.instagram.com/adriano.ramos9/
