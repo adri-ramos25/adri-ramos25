@@ -1,4 +1,4 @@
-# Sobre Mim
+## Sobre Mim
 
 Sou desenvolvedor front-end com interesse em tecnologia e computação desde sempre. Gosto de usar minha criatividade para criar projetos visualmente atraentes e funcionais.
 
@@ -10,9 +10,9 @@ Estou sempre em busca de aprendizado e desafios que me ajudem a crescer como des
 
 
 
-# Tecnologias que Utilizo
+## Tecnologias
 
-**No Desenvolvimento Front-End**
+**Desenvolvimento Front-End**
 - JavaScript
 - HTML
 - CSS
@@ -21,12 +21,12 @@ Estou sempre em busca de aprendizado e desafios que me ajudem a crescer como des
 - Bootstrap
 - Figma
 
-**No Desenvolvimento De Jogos**
+**Desenvolvimento De Jogos**
 - Pretendo aprender C# e Unity, tecnologias essenciais para desenvolver jogos.
 
 
 
-# Links das Minhas Redes
+## Minhas Redes
 
 - [LinkedIn] (www.linkedin.com/in/adriano-ramos25)
 - [Instagram] (https://www.instagram.com/adriano.ramos9/)
