@@ -20,4 +20,4 @@ Também pretendo me tornar desenvolvedor de jogos e criar projetos próprios que
 
 ## Meu LinkedIn
 
-- LinkedIn: https://www.linkedin.com/in/adriano-ramos25
+https://www.linkedin.com/in/adriano-ramos25
