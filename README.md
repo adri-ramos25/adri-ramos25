@@ -1,4 +1,4 @@
-## Sobre Mim
+## 👤 Sobre Mim 
 
 Sou um desenvolvedor front-end, focado em criar projetos visualmente atraentes e funcionais. Atualmente, estou aprimorando minhas habilidades em desenvolvimento front-end, mas desejo expandir meus conhecimentos para me tornar desenvolvedor full-stack. 
 
@@ -6,7 +6,7 @@ Também pretendo me tornar desenvolvedor de jogos e criar projetos próprios que
 
 
 
-## Tecnologias que Utilizo
+## 🛠️ Tecnologias que Utilizo
 
 - JavaScript
 - HTML
@@ -18,6 +18,6 @@ Também pretendo me tornar desenvolvedor de jogos e criar projetos próprios que
 
 
 
-## Meu LinkedIn
+## 🔗 Meu LinkedIn
 
 https://www.linkedin.com/in/adriano-ramos25
