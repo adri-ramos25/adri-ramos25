@@ -1,8 +1,6 @@
 ## 👤 Sobre Mim 
 
-Eu sou um desenvolvedor front-end, focado em criar projetos visualmente atraentes e funcionais. Atualmente, estou aprimorando o meu conhecimento em desenvolvimento front-end e desejo me tornar desenvolvedor full-stack no futuro.
-
-Também pretendo me tornar desenvolvedor de jogos e criar meus próprios projetos independentes.
+Eu sou um desenvolvedor front-end focado em criar projetos visualmente atraentes e funcionais. Atualmente, estou aprimorando o meu conhecimento em desenvolvimento front-end e desejo me tornar desenvolvedor de jogos e criar os meus próprios projetos independentes.
 
 
 
