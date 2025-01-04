@@ -20,6 +20,7 @@ Eu sou um desenvolvedor front-end focado em criar projetos visualmente atraentes
 
 - LinkedIn: https://www.linkedin.com/in/adriano-ramos25
 - Instagram: https://www.instagram.com/adriano.ramos25/
+- Figma: https://www.figma.com/@adri_ramos25
 
 ## 📧 Meu Email
 adriano.ramos.dev@gmail.com
