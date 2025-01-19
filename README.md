@@ -22,8 +22,13 @@ Eu sou um desenvolvedor front-end focado em criar projetos visualmente atraentes
 - Instagram: https://www.instagram.com/adriano.ramos25/
 - Figma: https://www.figma.com/@adri_ramos25
 
+<<<<<<< HEAD
 
 
 ## 📧 Meu Email
 
 adriano.ramos.dev@gmail.com
+=======
+## 📧 Meu Email
+adriano.ramos.dev@gmail.com
+>>>>>>> 7fd279ab9fb141cdddb91f5b0828ddde26105961
