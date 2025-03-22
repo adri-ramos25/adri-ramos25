@@ -1,6 +1,6 @@
 ## 👤 Sobre Mim
 
-Sou um desenvolvedor focado em criar o front-end de sites e aplicações web, e atualmente estou aprimorando o meu conhecimento nesta área. Também pretendo me tornar desenvolvedor de jogos e criar os meus próprios projetos independentes no futuro.
+Sou um desenvolvedor de software focado em desenvolver o front-end de sites e aplicações web, e atualmente estou aprimorando o meu conhecimento nesta área. Também pretendo me tornar desenvolvedor de jogos e criar os meus próprios projetos independentes no futuro.
 
 
 
