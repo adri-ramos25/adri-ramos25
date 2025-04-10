@@ -1,10 +1,10 @@
 ## 👤 Sobre Mim
 
-Sou um programador focado em desenvolver o front-end de sites e aplicações web, e atualmente estou aprimorando o meu conhecimento nesta área. Também pretendo me tornar desenvolvedor de jogos e criar os meus próprios projetos independentes no futuro.
+Sou um programador responsável por criar a interface (front-end) de sites e aplicações web. Atualmente, estou aprimorando o meu conhecimento na área de desenvolvimento front-end e estudando desenvolvimento de jogos para criar os meus próprios jogos independentes.
 
 
 
-## 💼 Meu Portfólio
+## 📂 Meu Portfólio
 https://adri-ramos25.github.io/portfolio-adriano-ramos/
 
 
