@@ -1,5 +1,5 @@
 ## 👤 Sobre Mim
-Sou um desenvolvedor responsável por desenvolver a interface (front-end) de sites e aplicações web. Atualmente, estou aprimorando o meu conhecimento na área de desenvolvimento front-end e estudando desenvolvimento de jogos para criar os meus próprios jogos.
+Sou um programador responsável por desenvolver a interface (front-end) de sites e aplicações web. Atualmente, estou aprimorando meus conhecimentos em desenvolvimento front-end e também estudando desenvolvimento de jogos, com o objetivo de criar e lançar meus próprios jogos de forma independente.
 
 
 
