@@ -1,5 +1,11 @@
 ## 👤 Sobre Mim
-Sou um programador front-end responsável pelo desenvolvimento de interfaces de sites e aplicações web. Estou sempre em busca de aprendizado e desafios que me façam evoluir como programador.
+Sou um desenvolvedor responsável pelo desenvolvimento da interface (front-end) de sites e aplicações web.
+
+Meu interesse por tecnologia começou cedo, mas foi ao desenvolver jogos no Pocket Code — um app de criação de jogos para celular — que descobri o interesse pelo desenvolvimento de software. Nessa época, eu cuidava de todos os aspectos dos jogos: lógica, artes, sons e correções de bugs.
+
+Atualmente, sigo me aprofundando nas tecnologias de front-end e estudando desenvolvimento de jogos, com o objetivo de criar e lançar meus próprios jogos de forma independente.
+
+Sempre estou em busca de aprendizado e desafios que me façam evoluir como desenvolvedor.
 
 
 
@@ -10,7 +16,7 @@ https://adri-ramos25.github.io/portfolio-adriano-ramos/
 
 ## 🛠️ Tecnologias que Utilizo
 
-Como programador front-end:
+Como desenvolvedor front-end:
 
 - JavaScript
 - HTML
